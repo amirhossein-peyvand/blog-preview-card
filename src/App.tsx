@@ -1,5 +1,7 @@
+import Card from "./Card";
+
 function App() {
-  return <></>;
+  return <Card />;
 }
 
 export default App;
